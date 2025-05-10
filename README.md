@@ -1,6 +1,8 @@
 # FixMigratedItemMessages
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that fixes issue [#83](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/83).
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that allows spawning objects from migrated object messages.
+
+This fixes issue [#83](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/83).
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
